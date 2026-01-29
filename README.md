@@ -19,4 +19,4 @@ PROJECT STRUCTURE:
 OUTPUT:
 
 
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/bb73629e-c6fb-4656-a683-e4a2fdede407" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bb73629e-c6fb-4656-a683-e4a2fdede407" />
