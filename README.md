@@ -8,7 +8,15 @@ Transfer Money: Transfer funds from one account to another.
 Exception Handling: Handles scenarios such as insufficient funds during a transfer.
 
 PROJECT STRUCTURE:
-<img width="558" height="745" alt="image" src="https://github.com/user-attachments/assets/476474cf-d21a-4f23-a320-30eb2104f5c6" />
+
+
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/476474cf-d21a-4f23-a320-30eb2104f5c6" />
+
+
+
 
 OUTPUT:
-<img width="1364" height="169" alt="image" src="https://github.com/user-attachments/assets/bb73629e-c6fb-4656-a683-e4a2fdede407" />
+
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/bb73629e-c6fb-4656-a683-e4a2fdede407" />
