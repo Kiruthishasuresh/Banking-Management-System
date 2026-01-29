@@ -11,7 +11,7 @@ PROJECT STRUCTURE:
 
 
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/476474cf-d21a-4f23-a320-30eb2104f5c6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/476474cf-d21a-4f23-a320-30eb2104f5c6" />
 
 
 
@@ -19,4 +19,4 @@ PROJECT STRUCTURE:
 OUTPUT:
 
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/bb73629e-c6fb-4656-a683-e4a2fdede407" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/bb73629e-c6fb-4656-a683-e4a2fdede407" />
